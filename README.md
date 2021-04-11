@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ben4oo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning python.
 - 📫 How to reach me on Discord: Ben_#9999
 
 <!---
